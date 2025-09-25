@@ -2,8 +2,8 @@
 ! Title: AdRules DNS List
 ! Expires: 12h (update frequency)
 ! Description: The DNS Filters (Support Adguard)
-! Total count: 144086 
-! Update: 2025-09-25 20:21:53(GMT+8)
+! Total count: 144112 
+! Update: 2025-09-25 22:11:35(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -17301,6 +17301,7 @@
 ||barkeephayey.cfd^
 ||barlo.xyz^
 ||barmkineruc.cfd^
+||barmodern.rest^
 ||barnabaslinger.com^
 ||barnacle.big-in-japan.com^
 ||barnacle.hearmeout.work^
@@ -22871,6 +22872,7 @@
 ||caulishanker.qpon^
 ||cauloterefutes.cyou^
 ||cauloupsamiki.net^
+||caupdekare.world^
 ||caupskyward.qpon^
 ||cauquiboguing.cyou^
 ||caurusbauchle.shop^
@@ -46446,6 +46448,7 @@
 ||gaupsootoagrauk.net^
 ||gauqoith.com^
 ||gaursnards.help^
+||gausswitchen.help^
 ||gaut-hil.com^
 ||gautmont.fr^
 ||gauvaiho.net^
@@ -53959,6 +53962,7 @@
 ||hoplekhornnist.space^
 ||hopquafreefire2021.com^
 ||hopquavn.com^
+||hopsysdhmstab.online^
 ||hoptopboy.com^
 ||hoqje.repipe.com^
 ||hoqodd.com^
@@ -58159,6 +58163,7 @@
 ||instantdollarz.com^
 ||instantmadness.com^
 ||instapagemetrics.com^
+||insteadectoderm.com^
 ||insteamarchont.help^
 ||insticator.com^
 ||instiengage.com^
@@ -61856,6 +61861,7 @@
 ||kayakerflybook.digital^
 ||kaychzzuteiyg.online^
 ||kaytri.com^
+||kaywarduncheat.qpon^
 ||kayzen.io^
 ||kayzzwpmuuqbz.online^
 ||kazanante.com^
@@ -75527,6 +75533,7 @@
 ||mentorsticks.com^
 ||mentrandingswo.com^
 ||menu.metu.vn^
+||menuslabis.world^
 ||menwcopf.work^
 ||meokiemtien.online^
 ||meoneintheworl.com^
@@ -77736,6 +77743,7 @@
 ||mimilcnf.pro^
 ||miminereffed.help^
 ||mimirpipil.life^
+||mimmestbrince.digital^
 ||mimosaavior.top^
 ||mimosamajor.com^
 ||mimsyfoulage.qpon^
@@ -80377,6 +80385,7 @@
 ||myornamenti.com^
 ||myositentrous.com^
 ||myown.mcverdi.dk^
+||myowunjussory.rest^
 ||myowvxxsjkwvp.space^
 ||mypa-hk.americanexpress.com^
 ||mypagerank.net^
@@ -82351,6 +82360,7 @@
 ||nkeyvdnjyhlssu.com^
 ||nkffaewmkgc.com^
 ||nkfith.xyz^
+||nkfmwayibmgi.com^
 ||nkgmodulsssiy.online^
 ||nkhgheadrrrbt.space^
 ||nkhimunpractica.org^
@@ -84183,6 +84193,7 @@
 ||offdeck.telkomsel.com^
 ||offenceseemshy.com^
 ||offendalligatorcoaleven.com^
+||offenderprolific.com^
 ||offenseshabbyrestless.com^
 ||offensiveparkedangela.com^
 ||offer.camp^
@@ -86306,6 +86317,7 @@
 ||ourteeko.com^
 ||ourtoolbar.com^
 ||ourtown.westportjournal.com^
+||ouseekugleshoa.net^
 ||ouseersovoaftuw.net^
 ||oushauchirgucha.com^
 ||oushaury.com^
@@ -88990,6 +89002,7 @@
 ||phjtxx.xyz^
 ||phkavwzvgjjtw.online^
 ||phkhcp.luminaire.fr^
+||phknwauhyunwi.online^
 ||phlazada.vip^
 ||phlebotomyexam.quantresear.ch^
 ||phlegmywhosis.click^
@@ -94481,6 +94494,7 @@
 ||qzybrmvavlzj.top^
 ||qzybrmvavzer.top^
 ||qzybrmzevelw.top^
+||qzyiewbewqgaa.space^
 ||qzyovqyqmweox.site^
 ||qzyztuwulo.com^
 ||qzzle.formulandcanada.com^
@@ -117398,6 +117412,7 @@
 ||stats.boringproxy.io^
 ||stats.boscabeatha.ie^
 ||stats.bostonedtech.org^
+||stats.bouyguestelecom.fr^
 ||stats.brandontoner.ca^
 ||stats.break.com^
 ||stats.breathly.app^
@@ -122691,6 +122706,7 @@
 ||tenuate.1.p2l.info^
 ||tenuredwese.shop^
 ||tenurehabille.shop^
+||tenzonebrazed.shop^
 ||teotnajhxmwts.site^
 ||tepatonol.com^
 ||tephraeyedot.rest^
@@ -124877,6 +124893,7 @@
 ||tpcserve.com^
 ||tpfjpdizmvpaz.store^
 ||tpfrro.justlease.nl^
+||tpjgppdpgae.com^
 ||tpjojh.tripxtours.com^
 ||tpjw.cn^
 ||tpkv.cn^
@@ -128752,6 +128769,7 @@
 ||tridentenvironmental.co.uk^
 ||tridroin.com^
 ||trienesanthus.digital^
+||triersreprune.cfd^
 ||trifling-profession.pro^
 ||triflinghandicapped.com^
 ||triggedbaize.life^
@@ -132333,6 +132351,7 @@
 ||utenti.lycos.it^
 ||utewyc.xyz^
 ||utf1.liehuo.net^
+||utgpsiesiotbx.website^
 ||utherverse.com^
 ||uthorner.info^
 ||uthounie.com^
@@ -134102,6 +134121,7 @@
 ||vicepiter.ru^
 ||vicesus.com^
 ||vick6duty.com^
+||vicknovelet.cyou^
 ||vicky.tweaknology.org^
 ||vickyellend.com^
 ||vicodin-store.shengen.ru^
@@ -135810,6 +135830,7 @@
 ||vwxfxcamyhpqq.online^
 ||vwzrmuzcjxpkh.space^
 ||vx2vmoxd9x0cj7m3.pleasedonotblockme.com^
+||vxbstsvddlepb.online^
 ||vxcjoz.nextadvisor.com^
 ||vxcvd67.fun^
 ||vxdrfr.xyz^
@@ -136069,6 +136090,7 @@
 ||wabsgz.studocu.com^
 ||wac.2ddcc.alphacdn.net^
 ||wacisi.xyz^
+||wacogzaeip.com^
 ||wacthobbegkx.net^
 ||wadahlapak.top^
 ||wadauthy.net^
@@ -136210,6 +136232,7 @@
 ||wapx.cn^
 ||waqiqbzkvozig.click^
 ||waqool.com^
+||waqwcbnbbpliz.online^
 ||warba.warbamartltd.com^
 ||warbler.resumebuilder.dev^
 ||wardroplet.world^
@@ -139928,6 +139951,7 @@
 ||xcvf.info^
 ||xcvfqnxr.net^
 ||xcwdcynb.icu^
+||xcxmfcqehr.net^
 ||xcy8.com^
 ||xcycm.com^
 ||xcypgd.icu^
@@ -141052,6 +141076,7 @@
 ||xrfltqzxwupzh.store^
 ||xrhrrk.steepandcheap.com^
 ||xrlbpwupwj.com^
+||xrllratggofic.online^
 ||xrlzhk.top^
 ||xrmfjzqo.xyz^
 ||xrnyhc.bgeilbo.com^
@@ -141665,6 +141690,7 @@
 ||ycgmnpp.icu^
 ||ycgyoxouebbaq.store^
 ||ycgzuvkiqmxnw.online^
+||ych.asia^
 ||ych168.cn^
 ||ychildrenasthey.com^
 ||ychjstmxy.com^
