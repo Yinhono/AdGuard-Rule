@@ -1,4 +1,4 @@
-# Update time: 2025-09-25 22:14:09
+# Update time: 2025-09-26 09:18:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -83,6 +83,7 @@
 ||pxl-*.ozone.ru^
 ||ads*-adnow.com^
 ||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -107,6 +108,7 @@
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
+||dm*.yxlady.com^
 ||tnc*.tiktokv.us^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -422,7 +424,6 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||wa.gmx.
             }
-||ky891.oss-*.aliyuncs.com^
 ||cnt.yeptube.
 ||cpro.
 ||sax*.sina.
@@ -542,7 +543,6 @@ body {
 ||irs01.
 ||38.33.15.*.gif
 ||adservice.google.co.*
-||23.109.82.
 <style>
 ||u*.takru.com^
 ||adservice.
@@ -608,7 +608,6 @@ MRelateFeedAd
                 arguments.push(this[possibleArguments[i]]);
         }
 ||ggg.
-||23.109.87.
 ||static*.365inews.com^
 ||advert.
 ||advert-
@@ -690,6 +689,7 @@ MRelateFeedAd
 ||tr.*.espmp-*fr.net^
 @@||profile*.se.360.cn^
 ||wafmedia*.*^
+||23.109.82.
 ||gostats.*^
 ||120.27.*.html
 ||web-stat.*^
@@ -737,7 +737,6 @@ MRelateFeedAd
 ||imp*.tradedoubler.com^
 ||pingfore*.*^
 ||mkto-*.com^
-||dm*.yxlady.com^
 ||targeting.*.arcpublishing.com^
 ||openx*.*^
 ||gg*.miguvideo.com^
@@ -767,6 +766,7 @@ MRelateFeedAd
 ||sta.zone-telechargement.
 ||play*.videos.vidto.me^
 ||activity.*.miui.com^
+||23.109.87.
 ||omniture*.*^
 ||vente-unique.*^
 ||clientlog*.music.163.com^
