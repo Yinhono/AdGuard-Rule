@@ -1,4 +1,4 @@
-# Update time: 2025-09-26 09:18:14
+# Update time: 2025-09-26 20:36:33
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -92,7 +92,6 @@
 ||ali-bj-pcdn-*.biliapi.net^
 ||ce-global-track-*.amazonaws.com^
 ||customerevents.us-east-*.internal.dradis.netflix.com^
-||d*.ruiwen.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||ads*-normal-*.zijieapi.com^
@@ -108,7 +107,6 @@
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
-||dm*.yxlady.com^
 ||tnc*.tiktokv.us^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -367,7 +365,6 @@
 ||aan.amazon.*^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
-||d*.xinshipu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||tracking-*.trnox.com^
@@ -511,6 +508,7 @@ Banner468x60
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 h1 {
+iframe {
 ||adserver1.
 ||ad*.mellesleg.hu^
 ||backstory.ebay.
@@ -588,6 +586,7 @@ advertisers.js|
 ||cdn*.swaxis.com^
                     return;
 ||srmdata-*.com^
+<div>
 ||adimg*.search.naver.net^
 ||icq-window.
 ||advertise.
@@ -597,6 +596,7 @@ advertisers.js|
 ||cnt.winporn.
 MRelateFeedAd
 ||adsmind.
+    })();
 ||collector.hamsterix.
 ||logstash-*.radio-canada.ca^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
@@ -612,9 +612,11 @@ MRelateFeedAd
 ||advert.
 ||advert-
 ||rotaban.
+        console.log('Callback complete.');
 ||yandex.avito.www.
 ||adcolony.
 ||showad*
+    (function () {
 ||cnt.proporn.
     }
 ||popuptraf.
@@ -644,6 +646,7 @@ MRelateFeedAd
 ||thegreatesthits.
 ||pagead2.
 ||biz5.
+<body>
 ||sgtm.wimdu.
 ||googleads.
 ||snowplow-collector.
@@ -723,6 +726,7 @@ MRelateFeedAd
 ||putrr*.com^
 ||impservice*.youdao.com^
 ||tccd.douglas.
+||d*.ruiwen.com^
 ||count*.pconline.com.cn^
 ||iflyad.*.openstorage.cn^
 ||servo-report.dvdfab.
@@ -737,6 +741,7 @@ MRelateFeedAd
 ||imp*.tradedoubler.com^
 ||pingfore*.*^
 ||mkto-*.com^
+||dm*.yxlady.com^
 ||targeting.*.arcpublishing.com^
 ||openx*.*^
 ||gg*.miguvideo.com^
@@ -813,6 +818,7 @@ MRelateFeedAd
 %2Frw%2Fbeacon_
 ||s*.web.flashx.co^
 ||xn--wxtr9fwyxk9c.*^
+||d*.xinshipu.com^
 ||bs*.9669.cn^
 ||p*-ad-sign.byteimg.com^
 ||142.91.159.
