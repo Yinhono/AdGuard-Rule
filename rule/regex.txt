@@ -1,4 +1,4 @@
-# Update time: 2025-09-26 20:36:33
+# Update time: 2025-09-27 09:15:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -83,7 +83,6 @@
 ||pxl-*.ozone.ru^
 ||ads*-adnow.com^
 ||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -394,8 +393,6 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
-            pageOptions
-        loadFeed(...getLoadFeedArguments());
 |load.sst.
 ||sax.sina.
 ||xmindchina.
@@ -421,6 +418,7 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||wa.gmx.
             }
+||ky891.oss-*.aliyuncs.com^
 ||cnt.yeptube.
 ||cpro.
 ||sax*.sina.
@@ -433,7 +431,6 @@ analytics-*.aasaam.com
 ||suite*.linximpulse.net^
 ||basvformu*.xyz^
 |load.ss.
-    function getLoadFeedArguments() {
 ||guangyaoli.
 ||linkexchange.
 ||pangolin*.sgsnssdk.com^
@@ -446,10 +443,8 @@ Banner468x60
 ||analytics.streamfab.
 ||ads-
 ||ads.
-        ];
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
-    Privacy Policy
 ||goodadvert.
 ||yazhouyu.
 ||avito.avito.avito.
@@ -488,7 +483,6 @@ Banner468x60
 ||videoclik.
 ||poshalim.
 ||adapi.
-        return arguments;
 ||track.tiara.
 ||orbit*.lun.ua^
 ||adsfileretry.
@@ -507,7 +501,6 @@ Banner468x60
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
-h1 {
 iframe {
 ||adserver1.
 ||ad*.mellesleg.hu^
@@ -541,6 +534,7 @@ body {
 ||irs01.
 ||38.33.15.*.gif
 ||adservice.google.co.*
+||23.109.82.
 <style>
 ||u*.takru.com^
 ||adservice.
@@ -550,9 +544,7 @@ body {
 ||eclog*-*.cafe24.com^
     };
 ||epochtimes^
-    <script>
 ||onetrust.
-<!DOCTYPE html>
 ||underclick.
 ||googleadservices.
 getAds|
@@ -605,9 +597,9 @@ MRelateFeedAd
 ||ad*.bilgin.pro^
 	}
 ||report.*.qq.com^
-                arguments.push(this[possibleArguments[i]]);
         }
 ||ggg.
+||23.109.87.
 ||static*.365inews.com^
 ||advert.
 ||advert-
@@ -651,7 +643,6 @@ MRelateFeedAd
 ||googleads.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
-            2025 Copyright | All Rights Reserved.
 ||ad.
 ||cnzz.
 ||ad-
@@ -692,7 +683,6 @@ MRelateFeedAd
 ||tr.*.espmp-*fr.net^
 @@||profile*.se.360.cn^
 ||wafmedia*.*^
-||23.109.82.
 ||gostats.*^
 ||120.27.*.html
 ||web-stat.*^
@@ -771,7 +761,6 @@ MRelateFeedAd
 ||sta.zone-telechargement.
 ||play*.videos.vidto.me^
 ||activity.*.miui.com^
-||23.109.87.
 ||omniture*.*^
 ||vente-unique.*^
 ||clientlog*.music.163.com^
